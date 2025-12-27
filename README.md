@@ -1,19 +1,19 @@
-📊 Ecommerce-Sales-Dashboard-using-Machine-Learning
+**📊 Ecommerce-Sales-Dashboard-using-Machine-Learning**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project presents an interactive E-commerce Sales Dashboard developed using Power BI to analyze and visualize sales performance across multiple dimensions. The dashboard helps in understanding business trends, customer behavior, and profitability through clear and actionable insights.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Analyze overall sales and profit performance
 Identify top-performing states, categories, and sub-categories
 Understand monthly profit trends and seasonality
 Analyze customer preferences and payment modes
 
-📈 Key Features & Insights
+**📈 Key Features & Insights**
 
-Key KPIs:
+**Key KPIs:**
 
 Total Sales: 438K
 Total Profit: 37K
@@ -24,7 +24,8 @@ Monthly Profit Trend Analysis highlighting profitable and loss-making months
 Category-wise Quantity Distribution, with Clothing contributing the highest share
 Payment Mode Analysis, showing Cash on Delivery (COD) as the most preferred option
 
-🛠 Tools & Technologies Used
+**🛠 Tools & Technologies Used**
+
 Power BI
 Power Query (Data Cleaning & Transformation)
 Data Visualization
